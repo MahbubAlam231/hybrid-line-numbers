@@ -10,7 +10,7 @@ The mapping that toggles line number is--
 
     nnoremap <buffer> <localleader>nt :call NumberToggle()<cr>
 
-You can, of course, change this mappings at your will.
+You can, of course, change this mapping at your will.
 
 A similar plugin is [`jeffkreeftmeijer/vim-numbertoggle`](https://github.com/jeffkreeftmeijer/vim-numbertoggle).  It doesn't have the function `NumberToggle()`.
 
