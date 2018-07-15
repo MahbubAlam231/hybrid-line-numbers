@@ -1,7 +1,7 @@
-" Maintainer        : Mahbub Alam
-" License           : Self
-" Version           : 1.1.1
-" Description       : Toggle between absolute and relative number
+" Maintainer  : Mahbub Alam
+" License     : This file if placed in public domain
+" Version     : 1.1.1
+" Description : Toggle between absolute and relative number
 
 
 set number relativenumber             " 'Hybrid' line numbers
