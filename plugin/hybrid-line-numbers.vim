@@ -20,6 +20,3 @@ function! NumberToggle()
     endif
 endfunction
 
-nnoremap <buffer> <localleader>nt :call NumberToggle()<cr>:echo<cr>
-
-
