@@ -6,7 +6,7 @@ In a buffer with "hybrid" line numbers (`:set number relativenumber`), NumberTog
 Relative numbers are used in a buffer that has focus, and is in normal mode, since that's where you move around. They're turned off when you switch out of Vim, switch to another split, or when you go into insert mode.
 
 There is a added function (`NumberToggle()`) using which you can toggle between relative and absolute line numbers if it is useful to you to see absolute line numbers in normal mode sometimes.
-The mapping that toggles line number is--
+Put the following mapping in your `.vimrc`, it will toggle line numbers--
 
     nnoremap <buffer> <localleader>nt :call NumberToggle()<cr>
 
