@@ -12,9 +12,10 @@ The mapping that toggles line number is--
 
 You can, of course, change this mapping at your will.
 
+#### A similar plugin:
 A similar plugin is [`jeffkreeftmeijer/vim-numbertoggle`](https://github.com/jeffkreeftmeijer/vim-numbertoggle).  It doesn't have the function `NumberToggle()`.
 
-## Installation
+## Installation:
 
 #### Using [Vundle](https://github.com/VundleVim/Vundle.vim)
 
