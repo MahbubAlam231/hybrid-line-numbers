@@ -1,5 +1,5 @@
 " Maintainer  : Mahbub Alam
-" License     : This file if placed in public domain
+" License     : This file is placed in public domain
 " Version     : 1.1.1
 " Description : Toggle between absolute and relative number
 
