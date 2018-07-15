@@ -1,4 +1,4 @@
-# hybridlinenumber
+# hybridlinenumbers
 
 `hybridlinenumber` shows relative line number for all lines except the current line, for which it shows the absolute line number.
 In a buffer with "hybrid" line numbers (`:set number relativenumber`), NumberToggle switches to absolute line numbers (`:set number norelativenumber`) automatically when relative numbers don't make sense.
